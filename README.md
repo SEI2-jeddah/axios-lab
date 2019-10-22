@@ -2,6 +2,21 @@
 
 We will be using Axios for our AJAX requests.  Axios is a very popular library and we can use it in the browser and with node.
 
+## Installing
+
+Using npm:
+
+```bash
+$ npm install axios
+```
+
+
+Using cdn:
+
+```html
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+```
+
 ### Request
 - method
     - GET
