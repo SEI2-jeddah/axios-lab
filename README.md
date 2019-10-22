@@ -17,6 +17,8 @@ Using cdn:
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 ```
 
+___
+
 ### Request
 - method
     - GET
